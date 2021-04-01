@@ -6,4 +6,4 @@ def close10(x,y):
     else:
         return(y)
 
-print(closer10(5,12))
+print(close10(5,12))
